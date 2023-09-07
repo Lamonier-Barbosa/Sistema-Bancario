@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="1000" height="600" src="src/assets/to_readme/Lamonier B..png">
+<img width="1000" height="500" src="src/assets/to_readme/Lamonier B..png">
 <p/>
 
 
