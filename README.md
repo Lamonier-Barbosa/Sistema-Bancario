@@ -1,9 +1,11 @@
 
 <p align="center">
-<img width="470" src="src/assets/to_readme/Lamonier B..png">
+<img width="1000" height="600" src="src/assets/to_readme/Lamonier B..png">
 <p/>
 
-Este é um projeto de sistema bancário que permite executar e testar suas funcionalidades através do Insomnia. Para executar o projeto, basta dar um "npm run dev".
+
+## Meu Projeto: 💡
+Este é um projeto de sistema bancário que permite executar e testar suas funcionalidades através do Insomnia. O projeto foi criado graças ao curso da **Cubos Academy**. Durante o curso, aprendi a usar várias ferramentas e tecnologias para criar este projeto do zero. O curso em que aprendi a criar este projeto é de **Desenvolvimento de software com foco em Back-End**. Com este curso, pude criar este projeto e aplicar meus conhecimentos em um cenário do mundo real. 
 
 ## Ferramentas utilizadas 👨🏻‍💻
 <p>
@@ -35,7 +37,7 @@ npm install date-fs
 
 ## Testes com Insomnia 🚀
 
-Para testar as funcionalidades do sistema bancário através do Insomnia, você precisará baixar e instalar o Insomnia em seu sistema. Em seguida, abra o Insomnia e crie uma nova requisição para cada teste que deseja realizar. As opções de teste disponíveis são:
+Para testar as funcionalidades do sistema bancário através do Insomnia, Você precisará baixar e instalar o Insomnia em seu sistema. Após a instalação, deve executar o comando com um "npm run dev" no terminal. Em seguida, abra o Insomnia e crie uma nova requisição para cada teste que deseja realizar. As opções de teste disponíveis são:
 
 - Listar contas
 - Criar contas
@@ -70,10 +72,6 @@ Para testar as funcionalidades do sistema bancário através do Insomnia, você 
 <p align="center">
 <img width="470" src="src/assets/to_readme/extrato.png">
 <p/>
-  
-## Meu Projeto: 💡
-Este projeto foi criado graças ao curso da **Cubos Academy**. Durante o curso, aprendi a usar várias ferramentas e tecnologias para criar este projeto do zero. O curso em que aprendi a criar este projeto é de **Desenvolvimento de software com foco em Back-End**. Graças a este curso, pude criar este projeto e aplicar meus conhecimentos em um cenário do mundo real.
-
 
 ## Colaboraçâo: ⚙️
 Estou sempre procurando melhorar este projeto e adoraria receber a colaboração de outras pessoas. Se você tem interesse em contribuir com o código desenvolvido, sinta-se à vontade para fazer um fork deste repositório e enviar suas alterações através de um pull request.
