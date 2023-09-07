@@ -21,8 +21,14 @@ Para instalar as dependências necessárias para executar este projeto, você pr
 
 ```bash
 npm install -y 
+```
+```bash
 npm install express 
+```
+```bash
 npm install -D nodemon 
+```
+```bash
 npm install date-fs
 ```
 
